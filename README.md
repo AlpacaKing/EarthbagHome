@@ -1,1 +1,3 @@
 # EarthbagHome
+
+Site for EarthbagHome
